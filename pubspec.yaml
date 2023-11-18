@@ -3,7 +3,7 @@ description:
   Package make easier drag and drop 
   for list of widgets
 
-version: 0.0.1
+version: 0.0.5
 repository: https://github.com/SonaHunanyan/easy_drag_and_drop
 
 environment:

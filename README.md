@@ -1,6 +1,6 @@
 ## Overview
 
-The package make easier drag and drop of widgets list puted in stack
+The package make easier drag and drop stack of widgets
 
 
 ![Screen Recording 2023-11-18 at 22 14 15](https://github.com/SonaHunanyan/easy_drag_and_drop/assets/62184420/cbe61064-ef6f-4da7-b73a-ff9147130f1d)
