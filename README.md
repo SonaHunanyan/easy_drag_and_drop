@@ -11,7 +11,7 @@ The package make easier drag and drop of widgets list puted in stack
 
 
 ## Usage
-
+```
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
@@ -31,5 +31,5 @@ The package make easier drag and drop of widgets list puted in stack
       ),
     );
   }
-
+```
 
