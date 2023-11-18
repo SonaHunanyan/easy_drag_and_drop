@@ -2,11 +2,11 @@
 
 The package make easier drag and drop of widgets list puted in stack
 
-## Features
 
 
+https://github.com/SonaHunanyan/easy_drag_and_drop/assets/62184420/7e96c64c-b608-41bc-a415-196be9abbc3b
 
-## Getting started
+
 
 
 
