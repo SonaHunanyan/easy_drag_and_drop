@@ -4,7 +4,7 @@ description:
   for list of widgets
 
 version: 0.0.1
-repository:
+repository: https://github.com/SonaHunanyan/easy_drag_and_drop
 
 environment:
   sdk: '>=3.1.1 <4.0.0'
